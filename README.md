@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Rajdip-Shah
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing 
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me noway
+- 👀 I’m interested in NOTHING
+- 🌱 I’m currently learning NOTHING 
+- 💞️ I’m looking to collaborate on NOTHING 
+- 📫 How to reach me NOWAY
 
 <!---
 Rajdip-Shah/Rajdip-Shah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
